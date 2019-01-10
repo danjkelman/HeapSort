@@ -1,3 +1,4 @@
+#my goal would be to at some point make it so that you can introduce any number of intergers
 heap=[]
 seq=[[2,6],[2,5],[1,4],[1,3],[0,2],[0,1]]
 finalList=[]
